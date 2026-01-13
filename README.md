@@ -4,13 +4,16 @@ Small soft to convert .EML from .MSG
 Lib by JoshDATA
 
 Drag N Drop work with the .exe : 
+
 <img width="144" height="52" alt="image" src="https://github.com/user-attachments/assets/840b6a9a-87af-43ca-bdca-0a3556efca92" />
 
 FR Version : 
+
 <img width="500" height="327" alt="image" src="https://github.com/user-attachments/assets/c9b3c278-d802-4d56-8deb-39b10cf2f561" />
 
 
 EN Version :
+
 <img width="500" height="334" alt="image" src="https://github.com/user-attachments/assets/e641f1d4-2853-4092-9298-2da72320f9f3" />
 
 
