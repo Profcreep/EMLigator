@@ -1,7 +1,7 @@
 # EMLigator
 Small soft to convert .EML from .MSG
 
-Lib by JoshDATA
+Lib by JoshDATA (https://github.com/JoshData/convert-outlook-msg-file/tree/primary)
 
 Drag N Drop work with the .exe : 
 
