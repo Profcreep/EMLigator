@@ -1,4 +1,8 @@
 # EMLigator
+
+
+<img width="1536" height="1024" alt="emligator" src="https://github.com/user-attachments/assets/7bc44304-229d-4247-8aef-5f050a8357bf" />
+
 Small soft to convert .EML from .MSG
 
 Lib by JoshDATA (https://github.com/JoshData/convert-outlook-msg-file/tree/primary)
