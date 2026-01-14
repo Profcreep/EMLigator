@@ -35,3 +35,5 @@ EN Version :
 The soft is in french. Feel free to translate him if you want. (One Exe is in English (EMLigatorEN.exe)).
 
 
+#How to use EMLigator
+
