@@ -12,7 +12,7 @@ html2text
 
 To install all the requirement : 
 
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
 
 Drag N Drop work with the .exe !!
