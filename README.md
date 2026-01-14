@@ -42,3 +42,6 @@ The soft is in french. Feel free to translate him if you want. (One Exe is in En
 ## Drag N Drop 
 ![EMLigator](https://github.com/user-attachments/assets/25f9129d-c205-41a8-87e5-cad9bec1c22f)
 
+## One file
+![EMLigator](https://github.com/user-attachments/assets/e64a8b4c-28af-435d-8b8f-c1fa2a8ac122)
+
