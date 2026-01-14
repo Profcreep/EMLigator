@@ -46,5 +46,5 @@ The soft is in french. Feel free to translate him if you want. (One Exe is in En
 ![EMLigator](https://github.com/user-attachments/assets/e64a8b4c-28af-435d-8b8f-c1fa2a8ac122)
 
 ## One folder
-![EMLigator](https://github.com/user-attachments/assets/3df87bce-35bf-484a-99da-af99a22f5647)
+
 
