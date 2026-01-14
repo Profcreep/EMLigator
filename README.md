@@ -12,11 +12,10 @@ html2text
 
 To install all the requirement : 
 ```markdown
-```bash
-# Installer les dépendances requises
 pip install compoundfiles
 pip install rtfparse
 pip install EMLigator
+pip install compressed-rtf
 ```
 
 
