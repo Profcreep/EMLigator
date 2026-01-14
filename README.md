@@ -11,8 +11,13 @@ rtfparse  (Python 3.9+ only)
 html2text
 
 To install all the requirement : 
-
-'''pip install -r requirements.txt'''
+```markdown
+```bash
+# Installer les dépendances requises
+pip install compoundfiles
+pip install rtfparse
+pip install EMLigator
+```
 
 
 Drag N Drop work with the .exe !!
