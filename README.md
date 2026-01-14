@@ -37,3 +37,8 @@ The soft is in french. Feel free to translate him if you want. (One Exe is in En
 
 # How to use EMLigator
 
+**3 Methods Exist** :
+
+## Drag N Drop 
+![EMLigator](https://github.com/user-attachments/assets/25f9129d-c205-41a8-87e5-cad9bec1c22f)
+
