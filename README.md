@@ -4,13 +4,13 @@ Small soft to convert .EML from .MSG
 
 Lib by JoshDATA (https://github.com/JoshData/convert-outlook-msg-file/tree/primary)
 
-Lib requirement : 
+[Lib requirement :]
 compoundfiles
 compressed-rtf
-rtfparse  (Python 3.9+ only)
+rtfparse  *(Python 3.9+ only)*
 html2text
 
-To install all the requirement : 
+**To install all the requirement** 
 ```markdown
 pip install compoundfiles
 pip install rtfparse
