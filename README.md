@@ -16,6 +16,7 @@ Lib by JoshDATA (https://github.com/JoshData/convert-outlook-msg-file/tree/prima
 pip install compoundfiles
 pip install rtfparse
 pip install compressed-rtf
+pip install html2text
 ```
 
 
